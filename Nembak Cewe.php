@@ -86,7 +86,7 @@ tb5_randomizetitle();
  </head> 
  <body bgcolor="black"> 
   <center> 
-   <img src="https://assets.jalantikus.com/assets/cache/500/346/userfiles/2018/11/15/gambar-anime-romantis-10-3bbdd.jpg" alt="Lolykuu" width="30% atau xpx" height="40% atau ypx"> 
+   <img src="" alt="Lolykuu" width="30% atau xpx" height="40% atau ypx"> 
    <center> 
     <center> 
      <br> 
